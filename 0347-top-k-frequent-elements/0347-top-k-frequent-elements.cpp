@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        map<int,int>mp;
+        unordered_map<int,int>mp;
         for(auto i:nums) mp[i]++;
         vector<vector<int>>vp(nums.size()+1);
         for(auto [a,b]:mp)
