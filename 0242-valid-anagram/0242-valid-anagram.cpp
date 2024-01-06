@@ -1,7 +1,6 @@
 class Solution {
-private:
-    int freq[26]={0};
 public:
+    int freq[26]={0};
     bool isAnagram(string s, string t) {
         if(s.size()!=t.size()) return false;
         for(int i = 0;i < s.size();i++)
