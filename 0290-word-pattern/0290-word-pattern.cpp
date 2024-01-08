@@ -6,8 +6,8 @@ public:
         vector<string>v;
         int i = 0,n = pattern.size(),m = s.size();
         stringstream stringcap(s);
-        string word;
-        while(stringcap>>word) v.push_back(word); 
+        string temp;
+        while(stringcap>>temp) v.push_back(temp); 
         int o = v.size();
         if(o!=n) return false; 
         for(i=0;i<n;i++)
