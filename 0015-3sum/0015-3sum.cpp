@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        vector<vector<int>>ans;
         ios::sync_with_stdio(false);
         cin.tie(nullptr);
         cout.tie(nullptr);
@@ -22,10 +21,7 @@ public:
                 }
             }
         }
-        for(auto i:s)
-        {
-            ans.push_back(i);
-        }
+        vector<vector<int>>ans(s.begin(),s.end());
         return ans;
     }
 };
