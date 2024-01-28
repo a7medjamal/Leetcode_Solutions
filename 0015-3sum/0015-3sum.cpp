@@ -13,16 +13,13 @@ public:
             int l = i+1,r = n-1;
             while(l<r)
             {
-                if(nums[l]+nums[r]+nums[i]==0)
+                if(nums[l]+nums[r]+nums[i]<0) l++;
+                else if(nums[l]+nums[r]+nums[i]>0) r--;
+                else
                 {
                     s.insert({nums[l],nums[r],nums[i]});
                     l++,r--;
                 }
-                else if(nums[l]+nums[r]+nums[i]<0)
-                {
-                    l++;
-                }
-                else r--;
             }
         }
         for(auto i:s)
