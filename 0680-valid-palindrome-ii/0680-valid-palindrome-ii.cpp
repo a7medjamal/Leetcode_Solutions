@@ -2,7 +2,6 @@ class Solution {
 public:
     bool ispal(string &s,int l,int r)
     {
-        int n = s.size();
         while(l<r)
         {
             if(s[l]!=s[r])
