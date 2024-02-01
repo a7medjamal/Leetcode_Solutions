@@ -1,5 +1,11 @@
 class Solution {
 public:
+    Solution()
+    {
+            ios_base::sync_with_stdio(false);
+            cin.tie(NULL);
+            cout.tie(NULL);
+    }
     int numSubseq(vector<int>& nums, int target) {
         const int mod=1e9+7;
         sort(nums.begin(), nums.end());
