@@ -5,7 +5,7 @@ public:
     }
     vector<string> findRepeatedDnaSequences(string s) {
         unordered_map<string,int>mp;
-        vector<string>v,ans;
+        vector<string>ans;
         for(int i = 0;i < (int)s.size();i++)
         {
             ++mp[s.substr(i,10)];
