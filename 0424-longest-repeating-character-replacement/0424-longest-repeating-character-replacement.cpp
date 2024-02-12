@@ -8,7 +8,7 @@ public:
         unordered_map<char,int>mp;
         int l=0,r=0;
         int ans = 0,mx = 0;
-        while(r<(int)s.size())
+        for(r=0;r<(int)s.size();r++)
         {
             mp[s[r]]++;
             mx = max(mx,mp[s[r]]);
@@ -18,7 +18,6 @@ public:
                 l++;
             }
             else ans = max(ans,r-l+1);
-            r++;
         }
         return ans;
     }
