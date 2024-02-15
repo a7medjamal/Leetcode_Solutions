@@ -9,14 +9,12 @@ public:
         for(auto i:operations)
         {
             if(i=="+") {
-                int sum = s[s.size()-1]+s[s.size()-2];
-                s.push_back(sum);
-                ans+=(sum);
+                s.push_back(s[s.size()-1]+s[s.size()-2]);
+                ans+=s.back();
             }
             else if(i=="D") {
-                int mul = 2*s[s.size()-1];
-                s.push_back(mul);
-                ans+=mul;
+                s.push_back(2*s[s.size()-1]);
+                ans+=s.back();
             }
             else if(i=="C") {
                 int sub = s.back();
@@ -24,9 +22,8 @@ public:
                 ans-=sub;
             }
             else {
-                int nm = stoi(i);
-                s.push_back(nm);
-                ans+=nm;
+                s.push_back(stoi(i));
+                ans+=s.back();
             }
         }
         return ans;
