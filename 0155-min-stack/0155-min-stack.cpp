@@ -2,25 +2,23 @@ class MinStack {
 public:
     MinStack() {
         ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);
+        dq=deque<int>();
     }
-    vector<int>v;
+    deque<int>dq;
     void push(int val) {
-        v.push_back(val);
+        dq.push_front(val);
     }
     
     void pop() {
-        if(!v.empty())
-        {
-            v.erase(v.end()-1);
-        }
+        dq.pop_front();
     }
     
     int top() {
-        return v.back();
+        return dq.front();
     }
     
     int getMin() {
-        return *min_element(v.begin(),v.end());
+        return *min_element(dq.begin(),dq.end());
     }
 };
 
