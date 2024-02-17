@@ -18,6 +18,7 @@ public:
     }
     
     int getMin() {
+        ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);
         return *min_element(dq.begin(),dq.end());
     }
 };
