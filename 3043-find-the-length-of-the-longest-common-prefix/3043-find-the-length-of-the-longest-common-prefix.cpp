@@ -14,9 +14,9 @@ public:
         }
         int ans = 0;
         for (int x:arr1) {
-             while(x>ans) {
+             while(x) {
                  if (s.count(x)) {
-                     ans = x;
+                     ans = max(ans,x);
                      break;
                  }
                  x/=10;
