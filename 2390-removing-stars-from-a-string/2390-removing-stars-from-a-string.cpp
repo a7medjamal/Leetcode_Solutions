@@ -1,5 +1,9 @@
 class Solution {
 public:
+    Solution()
+    {
+        ios_base::sync_with_stdio(false); cin.tie(NULL); cin.tie(NULL);
+    }
     string removeStars(string s) {
         string ans(s.size(),0);
         int rsz = 0;
