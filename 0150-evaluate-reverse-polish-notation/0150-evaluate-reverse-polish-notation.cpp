@@ -17,8 +17,6 @@ public:
         int x = st.top();
         st.pop();
         
-        if(s.empty()) return;
-        
         if(s=="+") st.push(x+y);
         else if(s=="-") st.push(x-y);
         else if(s=="*") st.push(x*y);
