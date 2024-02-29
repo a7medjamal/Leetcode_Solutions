@@ -17,8 +17,8 @@ public:
         while(l<=r) {
             mid = l+(r-l)/2; //avoid overflow
             if(guess(mid)==-1) r=mid-1;
-            if(guess(mid)==1) l=mid+1;
-            if(guess(mid)==0) break;
+            else if(guess(mid)==1) l=mid+1;
+            else break;
         }
         return mid;
     }
