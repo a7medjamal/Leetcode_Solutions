@@ -12,16 +12,13 @@ public:
         ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);
     }
     bool hasCycle(ListNode *head) {
-        ListNode *tmp1 = head;
-        ListNode *tmp2 = head;
-        while (tmp1 != nullptr && tmp2 != nullptr && tmp2->next != nullptr)
-        {
-            tmp1 = tmp1->next;
-            tmp2 = tmp2->next->next;
-            if (tmp1 == tmp2)
-            {
-                return true;
-            }
+        if(head==nullptr||head->next==nullptr) return false;
+        ListNode *first = head;
+        ListNode *last = head;
+        while(first->next != nullptr && first!=nullptr && last!=nullptr && first->next->next != nullptr) {
+            last = last->next;
+            first = first->next->next;
+            if(first==last) return true;
         }
         return false;
     }
