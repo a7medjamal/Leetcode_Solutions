@@ -15,10 +15,10 @@ public:
         if(head==nullptr||head->next==nullptr) return false;
         ListNode *first = head;
         ListNode *last = head;
-        while(first->next != nullptr && first!=nullptr && last!=nullptr && first->next->next != nullptr) {
+        while(first&&first->next) {
             last = last->next;
             first = first->next->next;
-            if(first==last) return true;
+            if(last==first) return true;
         }
         return false;
     }
