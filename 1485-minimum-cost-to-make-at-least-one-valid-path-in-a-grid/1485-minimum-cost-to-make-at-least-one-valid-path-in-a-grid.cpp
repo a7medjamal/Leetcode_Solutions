@@ -7,7 +7,12 @@ public:
         int n = grid.size(),m = grid[0].size();
         int dx[4]={0,0,1,-1};
         int dy[4]={1,-1,0,0};
-        vector<vector<int>> dist(n,vector<int>(m,INT_MAX));
+        int dist[n][m];
+        for(int i=0;i<n;++i) {
+            for(int j = 0;j < m;++j) {
+                dist[i][j]=INT_MAX;
+            }
+        }
         deque<pair<int,int>>dq;
         dq.push_back({0,0});
         dist[0][0]=0;
