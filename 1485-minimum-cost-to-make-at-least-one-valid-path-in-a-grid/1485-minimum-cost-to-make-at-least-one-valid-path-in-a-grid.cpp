@@ -3,37 +3,34 @@ public:
     Solution() {
         ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);
     }
-    vector<vector<int>> cost;
     int minCost(vector<vector<int>>& grid) {
         int n = grid.size(),m = grid[0].size();
-        cost.resize(n,vector<int>(m,INT_MAX));
-        dfs(grid, 0, 0, 0);
-        return cost[n-1][m-1];
-    }
-    void dfs(vector<vector<int>>& grid, int i, int j, int lst) {
-        int n = grid.size(),m = grid[0].size();
-        if(i<0||i>=n||j<0||j>=m||lst>=cost[i][j]) return;
-        cost[i][j]=lst;
-        if (grid[i][j] == 1) {
-            dfs(grid, i, j + 1, lst);
-            dfs(grid, i + 1, j, lst+1);
-            dfs(grid, i - 1, j, lst+1);
-            dfs(grid, i, j - 1, lst+1);
-        } else if (grid[i][j] == 2) {
-            dfs(grid, i, j - 1, lst);
-            dfs(grid, i + 1, j, lst+1);
-            dfs(grid, i - 1, j, lst+1);
-            dfs(grid, i, j + 1, lst+1);
-        } else if (grid[i][j] == 3) {
-            dfs(grid, i + 1, j, lst);
-            dfs(grid, i, j + 1, lst+1);
-            dfs(grid, i, j - 1, lst+1);
-            dfs(grid, i - 1, j, lst+1);
-        } else if (grid[i][j] == 4) {
-            dfs(grid, i - 1, j, lst);
-            dfs(grid, i, j + 1, lst+1);
-            dfs(grid, i, j - 1, lst+1);
-            dfs(grid, i + 1, j, lst+1);
+        int dx[4]={0,0,1,-1};
+        int dy[4]={1,-1,0,0};
+        vector<vector<int>> dist(n,vector<int>(m,INT_MAX));
+        deque<pair<int,int>>dq;
+        dq.push_back({0,0});
+        dist[0][0]=0;
+        while(dq.size()>0){
+            auto curr=dq.front();
+            dq.pop_front();
+            int x=curr.first,y=curr.second;
+            int dir=grid[x][y];
+            for(int i=0;i<4;i++){
+                int nx=x+dx[i],ny=y+dy[i];
+                int W=1;
+                if(i+1==dir) W=0;
+                if(nx<n&&ny<m&&nx>=0&&ny>=0){
+                    if(dist[nx][ny]>dist[x][y]+W){
+                        dist[nx][ny]=dist[x][y]+W;
+                        if(W==1)
+                            dq.push_back({nx,ny});
+                        else
+                            dq.push_front({nx,ny});
+                    }
+                }
+            }
         }
+        return dist[n-1][m-1];
     }
 };
