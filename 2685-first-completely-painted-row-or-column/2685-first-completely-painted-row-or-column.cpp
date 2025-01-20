@@ -10,7 +10,7 @@ public:
         }
         vector<int> pre_row(n,0),pre_col(m,0);
         for(int i = 0;i < (int)arr.size();++i) {
-            auto [r,c] = index[arr[i]-1];
+            auto& [r,c] = index[arr[i]-1];
             if(++pre_row[r]==m||++pre_col[c]==n) {
                 return i;
             }
