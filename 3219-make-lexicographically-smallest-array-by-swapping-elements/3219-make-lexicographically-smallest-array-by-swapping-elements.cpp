@@ -1,5 +1,10 @@
 class Solution {
 public:
+    Solution() {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
+        cout.tie(nullptr);
+    }
     vector<int> lexicographicallySmallestArray(vector<int>& nums, int limit) {
         vector<pair<int, int>> idxofval;
         int n = nums.size();
