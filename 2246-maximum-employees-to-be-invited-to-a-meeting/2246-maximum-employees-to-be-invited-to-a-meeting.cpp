@@ -38,7 +38,6 @@ public:
                 }
                 if (cycle_sz == 2) {
                     sum_chain += (dp[path[0]] + dp[favorite[path[0]]] + 2);
-                    vis[path[0]] = vis[favorite[path[0]]] = true;
                 } else {
                     mx_cycle = max(mx_cycle, cycle_sz);
                 }
