@@ -8,6 +8,6 @@ public:
             if(nums[i]>nums[i+1]) ++cnt; 
         }
         if(nums[nums.size()-1]>nums[0]) ++cnt;
-        return cnt<=1;
+        return cnt==1;
     }
 };
