@@ -6,9 +6,6 @@ public:
     void change(int index, int number) {
         if(mp.find(index)!=mp.end()) {
             mp_num[mp[index]].erase(index);
-            if(mp_num[mp[index]].empty()) {
-                mp_num.erase(mp[index]);
-            }
         }
         mp[index]=number;
         mp_num[number].insert(index);
