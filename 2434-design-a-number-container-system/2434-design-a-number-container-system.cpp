@@ -1,23 +1,18 @@
 class NumberContainers {
 public:
     unordered_map<int,int> mp;
-    unordered_map<int, set<int>> mp_num;
+    unordered_map<int, priority_queue<int,vector<int>,greater<int>>> mp_num;
     NumberContainers() {}
     void change(int index, int number) {
-        if(mp.find(index)!=mp.end()) {
-            mp_num[mp[index]].erase(index);
-            if(mp_num[mp[index]].empty()) {
-                mp_num.erase(mp[index]);
-            }
-        }
         mp[index]=number;
-        mp_num[number].insert(index);
+        mp_num[number].push(index);
     }
 
     int find(int number) {
+        while(!mp_num[number].empty()&&mp[mp_num[number].top()]!=number) mp_num[number].pop();
         if (mp_num[number].empty())
             return -1;
-        return *mp_num[number].begin();
+        return mp_num[number].top();
     }
 };
 
