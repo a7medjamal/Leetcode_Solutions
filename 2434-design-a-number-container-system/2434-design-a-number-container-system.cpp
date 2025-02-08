@@ -17,8 +17,7 @@ public:
     int find(int number) {
         if (mp_num[number].empty())
             return -1;
-        int ret = *mp_num[number].begin();
-        return ret;
+        return *mp_num[number].begin();
     }
 };
 
