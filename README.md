@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
 | [2685-first-completely-painted-row-or-column](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2434-design-a-number-container-system](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
 ## Matrix
 |  |
 | ------- |
@@ -135,4 +137,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
