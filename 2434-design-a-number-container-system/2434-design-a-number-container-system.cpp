@@ -7,7 +7,6 @@ public:
         mp[index]=number;
         mp_num[number].push(index);
     }
-
     int find(int number) {
         while(!mp_num[number].empty()&&mp[mp_num[number].top()]!=number) mp_num[number].pop();
         if (mp_num[number].empty())
