@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
@@ -152,4 +153,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
+## Stack
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
