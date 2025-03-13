@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3429-special-array-i) |
+| [3643-zero-array-transformation-ii](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2145-grid-game](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2145-grid-game) |
+| [3643-zero-array-transformation-ii](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -186,4 +188,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Binary Search
+|  |
+| ------- |
+| [3643-zero-array-transformation-ii](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
