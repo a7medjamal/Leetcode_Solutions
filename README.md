@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2145-grid-game](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2145-grid-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2665-minimum-time-to-repair-cars](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2690-house-robber-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2665-minimum-time-to-repair-cars](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
