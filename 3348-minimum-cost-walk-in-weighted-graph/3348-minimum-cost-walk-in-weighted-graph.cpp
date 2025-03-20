@@ -27,8 +27,6 @@ public:
         }
         return answer;
     }
-
-private:
     int find(int node) {
         if (parent[node] == -1) return node;
         return parent[node] = find(parent[node]);
