@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3429-special-array-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2533-bitwise-xor-of-all-pairings](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2792-neighboring-bitwise-xor) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Greedy
 |  |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1558-course-schedule-iv](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -148,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
 | ------- |
