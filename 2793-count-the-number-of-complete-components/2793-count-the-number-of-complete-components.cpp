@@ -1,18 +1,20 @@
 class Solution {
 public:
-    bool checkComplete(vector<int>& component,vector<vector<int>>& adj) {
+    bool checkComplete(vector<int>& component, vector<vector<int>>& adj) {
         int size = component.size();
-        for(auto u:component) {
-            if(adj[u].size()!=size-1) return false;
+        for (auto u : component) {
+            if (adj[u].size() != size - 1)
+                return false;
         }
         return true;
     }
-    void dfs(int u,vector<bool>& vis,vector<vector<int>>& adj, vector<int>& component) {
-        vis[u]=true;
+    void dfs(int u, vector<bool>& vis, vector<vector<int>>& adj,
+             vector<int>& component) {
+        vis[u] = true;
         component.push_back(u);
-        for(int v:adj[u]) {
-            if(!vis[v]) {
-                dfs(v,vis,adj,component);
+        for (int v : adj[u]) {
+            if (!vis[v]) {
+                dfs(v, vis, adj, component);
             }
         }
     }
@@ -23,12 +25,13 @@ public:
             adj[edge[0]].push_back(edge[1]);
             adj[edge[1]].push_back(edge[0]);
         }
-        vector<bool> vis(n,false);
-        for(int i=0;i<n;++i) {
-            if(!vis[i]) {
+        vector<bool> vis(n, false);
+        for (int i = 0; i < n; ++i) {
+            if (!vis[i]) {
                 vector<int> component;
-                dfs(i,vis,adj,component);
-                if(checkComplete(component,adj)) ++ans;
+                dfs(i, vis, adj, component);
+                if (checkComplete(component, adj))
+                    ++ans;
             }
         }
         return ans;
