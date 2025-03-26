@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0407-trapping-rain-water-ii](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0854-making-a-large-island](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3430-count-days-without-meetings) |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
