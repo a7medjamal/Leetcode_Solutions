@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0854-making-a-large-island](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
+| [0951-partition-array-into-disjoint-intervals](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
