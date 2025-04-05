@@ -1,16 +1,14 @@
 class Solution {
 public:
-    int subsetXORSum(vector<int>& nums) {
-        int ans=0,subsets=(1<<(nums.size()));
-        for (int mask = 0; mask < subsets; ++mask) {
-            int xorSum = 0;
-            for (int i = 0; i < nums.size(); ++i) {
-                if (mask&(1<<i)) {
-                    xorSum^=nums[i];
-                }
-            }
-            ans+=xorSum;
+    int calcXor(vector<int>& nums, int index, int currXor) {
+        if (index == nums.size()) {
+            return currXor;
         }
-        return ans;
+        int take = calcXor(nums,index+1,currXor^nums[index]);
+        int leave = calcXor(nums,index+1,currXor);
+        return take+leave;
+    }
+    int subsetXORSum(vector<int>& nums) {
+        return calcXor(nums, 0, 0);
     }
 };
