@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -280,4 +281,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
