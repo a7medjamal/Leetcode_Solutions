@@ -3,7 +3,7 @@ public:
     bool canPartition(vector<int>& nums) {
         int sum = accumulate(nums.begin(),nums.end(),0);
         if(sum&1) return false;
-        const int N = 200*100;
+        const int N = 2e4;
         bitset<N> dp(1);
         for(auto i:nums) {
             dp |= dp << i;
