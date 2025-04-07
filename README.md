@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0407-trapping-rain-water-ii](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0854-making-a-large-island](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0951-partition-array-into-disjoint-intervals) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0416-partition-equal-subset-sum](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Design
 |  |
