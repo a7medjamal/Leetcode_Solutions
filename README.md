@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Array
 |  |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2792-neighboring-bitwise-xor](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3429-special-array-i) |
