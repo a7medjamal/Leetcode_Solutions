@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2792-neighboring-bitwise-xor](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
 | ------- |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Stack
 |  |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -304,4 +307,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
