@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0401-binary-watch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2509-minimize-xor](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2509-minimize-xor) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
