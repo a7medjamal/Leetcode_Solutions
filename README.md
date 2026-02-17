@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0401-binary-watch](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0401-binary-watch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 ## Tree
 |  |
 | ------- |
