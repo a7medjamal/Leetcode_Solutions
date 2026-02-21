@@ -18,10 +18,10 @@ public:
         return true;
     }
     int countPrimeSetBits(int left, int right) {
-        vector<int> pre(1e6+9); pre[0]=0;
-        for(int i=1;i<1e6;++i) {
-            pre[i]=pre[i-1]+isPrime(__builtin_popcount(i));
+        int ans=0;
+        for(int i=left;i<=right;++i) {
+            if(isPrime(__builtin_popcount(i))) ++ans;
         }
-        return pre[right]-pre[left-1];
+        return ans;
     }
 };
