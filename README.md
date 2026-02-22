@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0401-binary-watch](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0868-binary-gap) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2509-minimize-xor](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2509-minimize-xor) |
