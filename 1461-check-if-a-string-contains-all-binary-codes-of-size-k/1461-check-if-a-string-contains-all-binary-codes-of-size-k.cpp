@@ -11,6 +11,6 @@ public:
                 ++mp[sub];
             }
         }
-        return((mp.size()==pow(2,k))?true:false);
+        return((mp.size()==(1<<k))?true:false);
     }
 };
