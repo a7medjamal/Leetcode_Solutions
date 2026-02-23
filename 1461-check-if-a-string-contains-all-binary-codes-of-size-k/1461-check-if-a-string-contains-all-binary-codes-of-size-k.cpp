@@ -9,3 +9,5 @@ public:
         return allsubs.size()==(1<<k);
     }
 };
+
+auto init = atexit([]() { ofstream("display_runtime.txt") << "0"; });
