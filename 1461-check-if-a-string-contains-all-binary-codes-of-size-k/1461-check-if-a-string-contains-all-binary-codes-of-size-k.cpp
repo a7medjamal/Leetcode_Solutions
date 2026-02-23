@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool hasAllCodes(string s, int k) {
-        set<string> allsubs;
+        unordered_set<string> allsubs;
         int n=(int)s.size();
         string sub="";
         map<string,int> mp;
