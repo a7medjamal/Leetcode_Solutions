@@ -15,7 +15,7 @@ public:
         if(!node) {
             return 0;
         }
-        sum=sum*2+node->val;
+        sum= (sum<<1) | node->val;
         if(!node->left&&!node->right) return sum;
         return dfs(node->left,sum)+dfs(node->right,sum);
     }
