@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1558-course-schedule-iv) |
@@ -303,10 +304,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Combinatorics
 |  |
