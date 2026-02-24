@@ -11,21 +11,15 @@
  */
 class Solution {
 public:
-    int ans=0;
-    void dfs(TreeNode* node,int sum) {
-        if(node==nullptr) {
-            return;
+    int dfs(TreeNode* node,int sum) {
+        if(!node) {
+            return 0;
         }
         sum=sum*2+node->val;
-        if(node->left==nullptr&&node->right==nullptr) {
-            ans+=sum;
-            return;
-        }
-        dfs(node->left,sum);
-        dfs(node->right,sum);
+        if(!node->left&&!node->right) return sum;
+        return dfs(node->left,sum)+dfs(node->right,sum);
     }
     int sumRootToLeaf(TreeNode* root) {
-        dfs(root,0);
-        return ans;
+        return dfs(root,0);
     }
 };
