@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1396-count-servers-that-communicate](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1396-count-servers-that-communicate](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0401-binary-watch](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -220,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
