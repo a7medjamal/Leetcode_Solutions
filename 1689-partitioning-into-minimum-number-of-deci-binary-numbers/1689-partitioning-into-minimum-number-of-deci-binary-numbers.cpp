@@ -1,7 +1,8 @@
 class Solution {
 public:
     int minPartitions(string n) {
-        sort(n.begin(),n.end());
-        return n[n.size()-1]-'0';
+        int ans=0;
+        for(auto i:n) ans=max(ans,i-'0');
+        return ans;
     }
 };
