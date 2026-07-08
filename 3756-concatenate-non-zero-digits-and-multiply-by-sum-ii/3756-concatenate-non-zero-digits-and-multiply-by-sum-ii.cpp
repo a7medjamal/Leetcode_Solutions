@@ -2,14 +2,18 @@ const int MOD = 1e9+7;
 const int MAXN = 1e5+1;
 long long pow10[MAXN];
 
+int init = []() {
+    pow10[0]=1;
+    for(int i=1;i<MAXN;++i) {
+        pow10[i] = (pow10[i-1]*10LL)%MOD;
+    }
+    return 0;
+}();
+
 class Solution {
 public:
     vector<int> sumAndMultiply(string s, vector<vector<int>>& queries) {
         int n=s.size();
-        pow10[0]=1;
-        for(int i=1;i<MAXN;++i) {
-            pow10[i] = (pow10[i-1]*10LL)%MOD;
-        }
         vector<long long> x(n+1,0);
         vector<long long> sum(n+1,0);
         vector<long long> cntnonzero(n+1,0);
