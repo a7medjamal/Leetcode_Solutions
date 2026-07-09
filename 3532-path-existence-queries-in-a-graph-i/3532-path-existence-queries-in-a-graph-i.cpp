@@ -9,7 +9,8 @@ public:
         }
         vector<bool> ans;
         for(auto &it:queries) {
-            ans.push_back(comp[it[0]]==comp[it[1]]);
+            int u = it[0]; int v = it[1];
+            ans.push_back(comp[u]==comp[v]);
         }
         return ans;
     }
