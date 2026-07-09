@@ -45,8 +45,7 @@ public:
         }
         vector<bool> ans;
         for(auto it:queries) {
-            int u=it[0]; int v=it[1];
-            ans.push_back(dsu.find(u)==dsu.find(v));
+            ans.push_back(dsu.find(it[0])==dsu.find(it[1]));
         }
         return ans;
     }
