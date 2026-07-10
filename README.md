@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0605-can-place-flowers](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0854-making-a-large-island](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
