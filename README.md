@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3429-special-array-i](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3643-zero-array-transformation-ii) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2792-neighboring-bitwise-xor](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -339,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
 |  |
 | ------- |
