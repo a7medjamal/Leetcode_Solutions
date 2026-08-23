@@ -1,13 +1,14 @@
 class Solution {
 public:
     bool checkDivisibility(int n) {
-       int sump=1,sum=0,nn=n;
-       while(nn>0) {
-        int dig=nn%10;
+       int sump=1,sum=0;
+       const int nn=n;
+       while(n>0) {
+        int dig=n%10;
         sum+=dig;
         sump*=dig;
-        nn/=10;
+        n/=10;
        }
-       return (n%(sump+sum)==0);
+       return (nn%(sump+sum)==0);
     }
 };
