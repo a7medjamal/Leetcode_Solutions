@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2509-minimize-xor](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2509-minimize-xor) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Brainteaser
 |  |
 | ------- |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Stack
 |  |
