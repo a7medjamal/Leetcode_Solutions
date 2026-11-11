@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0152-maximum-product-subarray](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0407-trapping-rain-water-ii](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2665-minimum-time-to-repair-cars](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/2690-house-robber-iv) |
@@ -328,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/a7medjamal/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 ## Tree
